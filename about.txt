@@ -1,0 +1,4 @@
+Sitio hecho en HTML, CSS y JavaScript
+Utilizando iconos y fuentes de Google Fonts (Material Icons "Sharp") y Unicons de IconScout
+Para el Carousel de Testimonials se usó Swiper JS (https://swiperjs.com/)
+Formulario de contacto integrado con Formspree (https://formspree.io/)
